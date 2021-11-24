@@ -1,3 +1,5 @@
+![Alt text](/Welshcorgicoin/Welshcorgicoin/blob/main/logos/twitter_background_image.png)
+
 # Welshcorgicoin — Stacks’ Community-driven memecoin
 
 $WELSH is **the first memecoin built on [Stacks blockchain](https://github.com/blockstack/stacks-blockchain)**. 
