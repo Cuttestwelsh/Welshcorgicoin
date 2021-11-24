@@ -1,4 +1,4 @@
-![Alt text](/Welshcorgicoin/blob/main/logos/twitter_background_image.png)
+![Alt text](/Welshcorgicoin/logos/twitter_background_image.png)
 
 # Welshcorgicoin — Stacks’ Community-driven memecoin
 
