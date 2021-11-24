@@ -1,4 +1,4 @@
-![Alt text](/Welshcorgicoin/logos/twitter_background_image.png)
+<img src="/Welshcorgicoin/logos/twitter_background_image.png"></img>
 
 # Welshcorgicoin — Stacks’ Community-driven memecoin
 
