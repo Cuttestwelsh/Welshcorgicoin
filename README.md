@@ -7,3 +7,5 @@ $WELSH will grow to become Stacks’ mascot and ambassador. Helping onboard new 
 Welshcorgicoin Official Channels
 ================================
 * Official Website: [www.welshcorgicoin.com](https://www.welshcorgicoin.com)
+* Discord: [Click to enter](http://discord.gg/VTdRpW7ckk)
+* Twitter: [Click to visit](https://twitter.com/welshcorgi_coin)
